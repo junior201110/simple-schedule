@@ -1,0 +1,13 @@
+node_modules/
+sessions/
+.DS_Store
+.idea/
+*.txt
+.editorconfig
+public/bower_components/
+public/build/
+*.log
+.eslint
+.vscode
+stats.json
+package-lock.json
